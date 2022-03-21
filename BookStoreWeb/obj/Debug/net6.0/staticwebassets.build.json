@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tmtpM21Z/uduFp4+AjKZza6RaPuG4Rxu3YmNd9dnFrQ=",
+  "Hash": "RdqiUwt23YVJJYvAAU4rPJ3MOu0qOINzzkmuYT5kKQA=",
   "Source": "BookStoreWeb",
   "BasePath": "_content/BookStoreWeb",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\daniel.stoimenov\\Desktop\\BookStore\\BookStoreWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookStoreWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\daniel.stoimenov\\Desktop\\BookStore\\BookStoreWeb\\wwwroot\\css\\bootswatchTheme.css",
+      "SourceId": "BookStoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\daniel.stoimenov\\Desktop\\BookStore\\BookStoreWeb\\wwwroot\\",
+      "BasePath": "_content/BookStoreWeb",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
       "Identity": "C:\\Users\\daniel.stoimenov\\Desktop\\BookStore\\BookStoreWeb\\wwwroot\\css\\site.css",
