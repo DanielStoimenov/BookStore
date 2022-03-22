@@ -551,4 +551,3 @@ C:\Users\daniel.stoimenov\Desktop\BookStore\BookStoreWeb\obj\Debug\net6.0\BookSt
 C:\Users\daniel.stoimenov\Desktop\BookStore\BookStoreWeb\obj\Debug\net6.0\ref\BookStoreWeb.dll
 C:\Users\daniel.stoimenov\Desktop\BookStore\BookStoreWeb\obj\Debug\net6.0\BookStoreWeb.pdb
 C:\Users\daniel.stoimenov\Desktop\BookStore\BookStoreWeb\obj\Debug\net6.0\BookStoreWeb.genruntimeconfig.cache
-C:\Users\daniel.stoimenov\Desktop\BookStore\BookStoreWeb\obj\Debug\net6.0\BookStoreWeb.csproj.AssemblyReference.cache
